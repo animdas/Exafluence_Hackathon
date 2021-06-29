@@ -1,5 +1,5 @@
-# Exafluence_Hackathon
-Mar 11, 9:00 AM - Mar 14, 10:00 PM
+# GL-Exafluence Hackathon
+Jun 24, 8:45 AM - Jun 27, 10:00 PM
 
 ###### In case of trouble opening the jupyter notebook (rendering issue), use this link: https://nbviewer.jupyter.org/github/animdas/Exafluence_Hackathon/blob/main/ExafluenceHackathon.ipynb
 
@@ -10,7 +10,9 @@ the dataset contains an exhaustive list of businesses who have taken business lo
 
 **Problem Type**: Binary Classification
 
-**Target Column**: Default_Statsus
+**Evaluation Metric**: f1_score
+
+**Target Column**: Default_Status
 
 **Tools/Techniques used**: Python, Feature Engineering and Selection, XGBoost
 
