@@ -1,5 +1,5 @@
 # GL-Exafluence Hackathon
-Jun 24, 8:45 AM - Jun 27, 10:00 PM
+Jun 24 - Jun 27, 2021
 
 ###### In case of trouble opening the jupyter notebook (rendering issue), use this link: https://nbviewer.jupyter.org/github/animdas/Exafluence_Hackathon/blob/main/ExafluenceHackathon.ipynb
 
